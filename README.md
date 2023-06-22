@@ -29,7 +29,7 @@ The following image shows the application's registered service worker:
 ## Links
 
 Github: https://github.com/dponsones/PWAs-text-editor.git
-Heroku: 
+Heroku: https://git.heroku.com/dp-pwa-text-editor.git
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
